@@ -4,6 +4,8 @@
 
 Space Dodge is an adrenaline-pumping arcade masterpiece where you take command of a sleek spaceship, navigating through a relentless swarm of enemy vessels. Your objective? Dodge, weave, and obliterate your way to the highest score!
 
+**[Watch the Demo](https://youtu.be/xo7EBUw7N1U)**
+
 ## Controls 🎮
 
 - **W**: Move Up
