@@ -17,6 +17,7 @@ Space Dodge is an adrenaline-pumping arcade masterpiece where you take command o
 - Your spaceship, a beacon of resistance, holds its ground at the bottom of the cosmic battlefield.
 - Utilize the agility of your ship with WASD to dodge incoming enemy fire.
 - Unleash a torrent of destruction with the mighty **T** key, decimating the enemy fleet.
+- **Limitation:** You can only fire two rockets at a time; wait for them to clear the screen before launching more.
 - Brace yourself; the intensity escalates as waves of enemy spaceships descend upon you.
 
 ## Scoring 🚀🎯
